@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: corinnekrych
+    provider: github
+    repository: test-arcalos-go
+  name: corinnekrych-test-arcalos-go
+spec:
+  description: Imported application for corinnekrych/test-arcalos-go
+  httpCloneURL: https://github.com/corinnekrych/test-arcalos-go.git
+  org: corinnekrych
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: test-arcalos-go
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/corinnekrych/test-arcalos-go.git

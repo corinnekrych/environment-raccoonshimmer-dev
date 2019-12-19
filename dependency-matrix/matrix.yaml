@@ -23,3 +23,9 @@ dependencies:
   url: https://github.com/cloudbees/jxui-frontend
   version: 0.0.1036
   versionURL: ""
+- host: github.com
+  owner: corinnekrych
+  repo: test-arcalos-go
+  url: https://github.com/corinnekrych/test-arcalos-go.git
+  version: ""
+  versionURL: ""
